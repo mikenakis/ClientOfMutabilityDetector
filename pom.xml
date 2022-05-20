@@ -60,7 +60,7 @@
 				<activeByDefault>true</activeByDefault>
 			</activation>
 			<properties>
-				<java.version>8</java.version>
+				<java.version>9</java.version>
 			</properties>
 		</profile>
 		<profile>
